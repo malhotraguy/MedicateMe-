@@ -1,6 +1,6 @@
 from twilio.rest import Client
-account_sid = "ACddc59696c52e6d717778a4621d700dc1"
-auth_token = "c324cdc7ba3923cb9b832d7f9975427a"
+account_sid = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+auth_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 client = Client(account_sid, auth_token)
 
