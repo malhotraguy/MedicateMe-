@@ -40,8 +40,8 @@ text_data=text_file.read()
 
 
 # Find these values at https://twilio.com/user/account
-account_sid = "ACddc59696c52e6d717778a4621d700dc1"
-auth_token = "c324cdc7ba3923cb9b832d7f9975427a"
+account_sid = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+auth_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 client = Client(account_sid, auth_token)
 
